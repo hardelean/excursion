@@ -14,7 +14,6 @@ h2 {
 }
 
 .links {
-	
 	color: Aquamarine;
 	font-size: 16px;
 }
@@ -22,4 +21,8 @@ h2 {
 p {
 	color: Gray;
 	font-size: 21px;
+}
+
+footer {
+	text-align: right;
 }
